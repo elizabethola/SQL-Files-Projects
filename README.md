@@ -8,7 +8,7 @@ Analyze sales trends over time,
 Determine peak sales periods,
 Provide actionable recommendations
 
-Key queries in the queries directory
+Key queries in the queries directory:
 Total revenue,
 Total number of order,
 Total order,
